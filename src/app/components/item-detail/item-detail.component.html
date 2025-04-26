@@ -1,0 +1,21 @@
+<div class="container mt-4" *ngIf="item">
+    <h2>Item Details</h2>
+    <div class="card shadow-sm p-3 mb-5 bg-body rounded">
+      <div class="card-body">
+        <h5 class="card-title">{{ item.name }}</h5>
+        <p class="card-text"><strong>Item ID:</strong> {{ item.itemId }}</p>
+        <p class="card-text"><strong>Name:</strong> {{ item.name }}</p>
+        <p class="card-text"><strong>Category:</strong> {{ item.category }}</p>
+        <p class="card-text"><strong>Brand Name:</strong> {{ item.brandName }}</p>
+        <p class="card-text"><strong>Price:</strong> ₹{{ item.price }}</p>
+  
+        <a class="btn btn-secondary mt-3" routerLink="/items">Back to List</a>
+      </div>
+    </div>
+  </div>
+  
+  <div class="container mt-4" *ngIf="!item">
+    <div class="alert alert-warning">Item not found!</div>
+    <a routerLink="/items" class="btn btn-secondary">Back</a>
+  </div>
+  
