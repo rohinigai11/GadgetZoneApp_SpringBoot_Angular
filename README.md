@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # GadgetzoneFrontend
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.8.
@@ -57,3 +58,7 @@ Angular CLI does not come with an end-to-end testing framework by default. You c
 ## Additional Resources
 
 For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+=======
+# GadgetZoneApp_SpringBoot_Angular
+This is an application that is specially created for the searching the electronics devices efficiently 
+>>>>>>> de94139355e76e55b473430a55d483feda8632e2
