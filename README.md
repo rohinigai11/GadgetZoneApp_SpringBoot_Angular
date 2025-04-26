@@ -11,18 +11,27 @@ Built with
 this project helps manage electronic products with a modern and dynamic UI.
 
 🚀 Features
+
 • ➕ Add new electronic products
+
 • 📝 Edit existing product details
+
 • 👀 View detailed product information
+
 • ❌ Delete products with confirmation
+
 • ⚡ Instant updates without reloading the page
+
 • 🎨 Clean and simple Bootstrap design
 
 🛠️ Technologies Used
 
 Frontend	Backend	Database	Styling
+
 Angular 16	Spring Boot	PostgreSQL	Bootstrap 5
+
 🧰 Prerequisites
+
 Before you start, make sure you have:
 
 🟢 Node.js (v17 or above)
