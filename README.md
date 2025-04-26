@@ -109,6 +109,4 @@ This project is licensed under the MIT License.
 👤 Rohini Gaikwad
 🔗 https://github.com/rohinigai11/GadgetZoneApp_SpringBoot_Angular.git
 
-Would you also like me to generate a slightly more polished version with badges (like build passing, license, etc.)? 🚀
-Or maybe even a fancier template with better formatting? 🌟
-(Just say if you want!)
+
