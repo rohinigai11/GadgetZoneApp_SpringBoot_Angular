@@ -1,7 +1,14 @@
 🎁 GadgetZone
+
 📋 Overview
+
 Welcome to GadgetZone!
-Built with 💻 Angular, ☕ Spring Boot, and 🛢️ PostgreSQL, this project helps manage electronic products with a modern and dynamic UI.
+
+Built with 
+💻 Angular, 
+☕ Spring Boot, 
+🛢️ PostgreSQL
+this project helps manage electronic products with a modern and dynamic UI.
 
 🚀 Features
 • ➕ Add new electronic products
